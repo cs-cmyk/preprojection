@@ -1,6 +1,6 @@
 # Pre-Projection: Position-Agnostic Nonlinear Feature Construction for Transformer Attention
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19497474.svg)](https://doi.org/10.5281/zenodo.19497474)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19498159.svg)](https://doi.org/10.5281/zenodo.19498159)
 
 This repository contains the code for the paper:
 
@@ -8,7 +8,7 @@ This repository contains the code for the paper:
 
 by Chirag Shinde
 
-📄 [Paper (PDF)](paper/preprojection_paper.pdf)  | 🔗 [Zenodo](https://zenodo.org/records/19497474)
+📄 [Paper (PDF)](paper/preprojection_paper.pdf)  | 🔗 [Zenodo](https://zenodo.org/records/19498159)
 
 
 ## Key Idea
