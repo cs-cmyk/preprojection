@@ -149,6 +149,18 @@ All experiments were run on a single **RTX 4080 12GB**. The frozen probe setting
   year={2025}
 }
 ```
+## Citation
+
+```bibtex
+@article{shinde2025preprojection,
+  title={Position-Agnostic Pre-Projection for Transformer Attention: 
+         Nonlinear Feature Construction and Content Skip Before Q/K/V},
+  author={Shinde, Chirag},
+  year={2025},
+  doi={10.5281/zenodo.19497474},
+  url={https://zenodo.org/records/19497474}
+}
+```
 
 ## License
 
